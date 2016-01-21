@@ -1,16 +1,9 @@
 # Getting-and-Cleaning-Data-Project---DGJ
 Repository for Coursera Class "Getting and Cleaning Data"
 
-																																																														
+The run_analysis.R code is designed to retrieve a series of data files and perform a summary analysis resulting in a single “tidy data set” that summarizes averages of mean and standard deviation data.
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
-
-
+Variables included are listed below.
 
 1 Subject ID Number – subject identification, range from 1-30
 2 Activity Number – activity number, range from 1-6
